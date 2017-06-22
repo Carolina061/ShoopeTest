@@ -9,9 +9,12 @@ require_once(dirname(__FILE__) . '/commons/header.php');
     }
 </style>
 <div id='g-Index-Page-Design-box' class='ai2html'>
-    <div>
-        <img id='g-ai0-0'class='g-aiImg'src='images/Asset 16.png'/>
+    <div class="col-sm-12">
+        <div class="col-sm-6>
+            <img id='g-ai0-0'class='g-aiImg'src='images/Asset 16.png'/>
+        </div>
     </div>
+    
     <div>
         <p class='g-aiPstyle1'>APA ITU PENJUAL TERPILIH SHOPEE?</p>
         <p class='g-aiPstyle2'>Sebuah apresiasi untuk penjual yang aktif dan</p>
@@ -119,12 +122,11 @@ require_once(dirname(__FILE__) . '/commons/header.php');
         <div class="col-sm-6">
             <center>
                 <p class='g-aiPstyle13'><a href='login.php'> GABUNG SEKARANG </a></p>
+                <br>
+                <p class='g-aiPstyle2'>Pendaftaran dan pengumuman Penjual Terpilih Shopee akan dilakukan setiap hari Jumat.</p>
             </center>
         </div>
 
 
-    </div>
-    <div id='g-ai0-33' class='g-Layer_1 g-aiAbs'>
-        <p class='g-aiPstyle2'>Pendaftaran dan pengumuman Penjual Terpilih Shopee akan dilakukan setiap hari Jumat.</p>
     </div>
 </div>
