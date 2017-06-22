@@ -10,15 +10,18 @@ require_once(dirname(__FILE__) . '/commons/header.php');
 </style>
 <div id='g-Index-Page-Design-box' class='ai2html'>
     <div class="col-sm-12">
-        <div class="col-sm-6>
+        <div class="col-sm-6">
             <img id='g-ai0-0'class='g-aiImg'src='images/Asset 16.png'/>
         </div>
     </div>
-    
-    <div>
-        <p class='g-aiPstyle1'>APA ITU PENJUAL TERPILIH SHOPEE?</p>
-        <p class='g-aiPstyle2'>Sebuah apresiasi untuk penjual yang aktif dan</p>
-        <p class='g-aiPstyle2'>memiliki pelayanan pelanggan yang baik </p>
+    <div class="col-sm-12">
+        <div class="col-sm-6">
+            <center>
+                <p class='g-aiPstyle1'>APA ITU PENJUAL TERPILIH SHOPEE?</p>
+                <p class='g-aiPstyle2'>Sebuah apresiasi untuk penjual yang aktif dan</p>
+                <p class='g-aiPstyle2'>memiliki pelayanan pelanggan yang baik </p>
+            </center>
+        </div>
     </div>
     <div class="col-sm-12">
         <p class='g-aiPstyle1'>KRITERIA PENJUAL TERPILIH SHOPEE</p>
